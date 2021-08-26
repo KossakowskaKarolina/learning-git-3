@@ -16,7 +16,7 @@ body::after {
 }
 
 h2 {
-  font-style: italic;
+  font-style: oblique;
 }
 
 p:last-of-type {
