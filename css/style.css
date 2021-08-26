@@ -1,0 +1,24 @@
+body {
+  margin: 100px 0 0 150px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body::after {
+  content: "";
+  background: url(https://blush.design/api/download?shareUri=LKipqcmuJrJt2pML&c=Skin_0%7Eff9ba5&w=800&h=800&fm=png);
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+h2 {
+  font-style: italic;
+}
+
+p:last-of-type {
+  font-style: italic;
+}
